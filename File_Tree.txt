@@ -1,0 +1,64 @@
+## The following tree has been provided for reference.
+
++---.ipynb_checkpoints
+\---data
+    \---gtsrb_german_traffic_sign
+        +---Meta
+        +---Project_exports
+        +---Test
+        \---Train
+            +---0
+            +---1
+            +---10
+            +---11
+            +---12
+            +---13
+            +---14
+            +---15
+            +---16
+            +---17
+            +---18
+            +---19
+            +---2
+            +---20
+            +---21
+            +---22
+            +---23
+            +---24
+            +---25
+            +---26
+            +---27
+            +---28
+            +---29
+            +---3
+            +---30
+            +---31
+            +---32
+            +---33
+            +---34
+            +---35
+            +---36
+            +---37
+            +---38
+            +---39
+            +---4
+            +---40
+            +---41
+            +---42
+            +---5
+            +---6
+            +---7
+            +---8
+            \---9
+
+###########
+## NOTE: ##
+###########
+
+## The following tree however is not showing the .csv files and the signnames file.
+
+## Apart from signnames, the dataset(which includes Train, Test, Meta and their respective .csv files)
+## can be obtained from Kaggle itself. The link is provided in the readme file.
+## The kaggle dataset files had been appended in gtsrb_german_traffic_sign/.
+
+- Rajdeep Banerjee

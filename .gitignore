@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/gtsrb_german_traffic_sign/Train*
+data/gtsrb_german_traffic_sign/Test*
+data/gtsrb_german_traffic_sign/Meta*
