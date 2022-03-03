@@ -49,7 +49,7 @@ While working on this project, I have faced challenges on creating the model, an
 
 However, I was able to achieve quite satisfactory result and thereby using this experience I am now able to perform more such computer vision projects with utmost accuracy.
 
-[See the project](https://linktodocumentation)
+[See the project](https://github.com/rjdpX/Traffic-Sign-Classifier-GTSRB/blob/master/Custom_Traffic_Sign_Classifier.ipynb)
 
 
 ## Authors
