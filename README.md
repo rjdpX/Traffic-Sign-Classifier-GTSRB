@@ -1,6 +1,8 @@
 
 # Traffic Sign Classifier using GTSRB dataset
 
+<img src = "https://production-media.paperswithcode.com/datasets/GTSRB-0000000633-9ce3c5f6_Dki5Rsf.jpg" height = 400 width = 500>
+
 Traffic sign classification is a systemic process of recognizing traffic signals which includes recognizing the merge signs, speed limit signs, stop signs  etc. allowing a self driving car to better optimize perform in such given scenarios and help navigate through obstacles if any.
 
 The most challenging part in any machine learning project is data creation and cleansing wherein for this project, we will be working on a German traffic sign dataset and process will comprise of
